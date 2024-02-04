@@ -1,0 +1,14 @@
+       /* Estilo para el enlace activo en la barra de navegación */
+       .navbar-nav .nav-item.active .nav-link {
+        color: #ffffff; /* Color de texto */
+    
+        /* Otros estilos que desees aplicar */
+    }
+
+    
+      
+      .custom-checkbox {
+        margin-bottom: 1.5rem; /* Puedes ajustar el valor según tus necesidades */
+        /* Estilos específicos para el elemento checkbox, si es necesario */
+      }
+      
